@@ -41,7 +41,8 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:HuseyinCengiz/sfg-pet-clinic.git</developerConnection>
+        <url>https://github.com/HuseyinCengiz/sfg-pet-clinic</url>
+        <connection>scm:git:https://github.com/HuseyinCengiz/sfg-pet-clinic.git</connection>
     </scm>
 
 </project>
